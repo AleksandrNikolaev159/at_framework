@@ -5,8 +5,8 @@ build/
 !**/src/test/**/build/
 
 ### IntelliJ IDEA ###
-### IntelliJ IDEA ###
 .idea
+
 
 ### Eclipse ###
 .apt_generated
